@@ -1,0 +1,12 @@
+RAM
+􀖂
+CPU
+􀕴
+BATTERY FULL
+􀛨
+BATTERY 25
+􀛩
+BATTERY EMPTY
+􀛪
+power
+􀆨
